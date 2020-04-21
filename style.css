@@ -1,0 +1,38 @@
+div {
+    border: 1px solid green;
+    padding: 1ex;
+    margin: 0;
+    align-content: center;
+    text-align: center;
+}
+
+#page2 {
+    display: none;
+}
+
+#cookie {
+    width: 75%;
+    margin: auto;
+}
+
+#footer {
+    height: unset;
+}
+* {
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 52px;
+    text-align: center;
+}
+
+button {
+    width: 75%;
+    margin: auto;
+    display: block;
+}
+
+img { display: block; }
+
