@@ -13,6 +13,7 @@ div {
 #cookie {
     width: 75%;
     margin: auto;
+    touch-action: manipulation;
 }
 
 #footer {
